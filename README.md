@@ -84,15 +84,4 @@ on provisioning for higher-grade loans than for lower-grade loans.
   benchmark but deprioritized in favor of interpretable models, consistent with how credit
   risk models are typically validated in practice
 
-## How to Run
 
-```bash
-pip install -r requirements.txt
-```
-
-Download the Lending Club dataset from Kaggle, place the CSV in a `data/` folder, and run
-the notebook `credit_risk_survival_analysis.ipynb`.
-
-## Tech Stack
-
-Python, pandas, lifelines, scikit-learn, matplotlib
