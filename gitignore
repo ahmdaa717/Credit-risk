@@ -1,0 +1,15 @@
+# Data files (too large for GitHub, download separately - see README)
+data/
+*.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
